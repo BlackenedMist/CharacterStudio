@@ -289,3 +289,7 @@ lerna-debug.log
 
 # Docusaurus build output
 .docusaurus/
+
+# ── loot-assets: nested asset repo (own git, upstream M3-org/loot-assets) ──
+# Lives physically at public/loot-assets (the wardrobe contents); kept out of wardrobe git.
+public/loot-assets
